@@ -1,0 +1,3 @@
+PIL==1.1.7
+wikitools==1.1.1
+wsgiref==0.1.2

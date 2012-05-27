@@ -45,7 +45,7 @@ class TaxonomyImage:
             page_image = self.getFirstImageForPage(member_page)
             images.append(page_image)
       # TODO compose images[] into a single image and return
-      return Image()
+      return None
       
 
    def saveImage(self, filename):
